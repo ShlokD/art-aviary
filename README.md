@@ -1,3 +1,3 @@
-# Flighty Mango
+# Art Aviary
 
-Preact + Vite + Eslint + Prettier + TailwindCSS
+View and read about artworks
